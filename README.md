@@ -27,7 +27,7 @@
 * **[SQL-BigQuery-Practice](https://github.com/tanyaniazi/SQL-BigQuery-Practice)** — Cloud-based relational database queries, data aggregations, window functions, and nested JSON schema parsing on massive public datasets. *(BigQuery, Python)*
 * **[practice-deep-learning](https://github.com/tanyaniazi/practice-deep-learning)** — Deep neural network architectures built entirely from scratch using Python and NumPy (DeepLearning.AI specialization). *(Python, NumPy)*
 * **[projecteuler.net_daily](https://github.com/tanyaniazi/projecteuler.net_daily)** — Algorithmic solutions and mathematical optimizations for Project Euler challenges, focusing on number theory and efficiency. *(Python)*
-* *[Add your remaining repositories here with a short 1-line description and link]*
+* **[ITU_UNOSTX_HW](https://github.com/tanyaniazi/ITU_UNOSTX_HW)** - Developed an end-to-end machine learning pipeline for healthcare analytics to predict kidney transplant survival outcomes using UNOS/KIDPAN registries, combining robust R-based data preprocessing with supervised classifiers (Random Forest, Gradient Boosting) evaluated via Stratified K-Fold cross-validation. *(Survival Analysis, healthcare analytics)*
 
 ---
 
