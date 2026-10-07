@@ -18,7 +18,7 @@
 ## 🚀 Flagship Projects & Research
 
 * **[THESIS-TUBITAK_PROJECT](https://github.com/tanyaniazi/THESIS-TUBITAK_PROJECT)** — Full data-processing and network-analysis pipeline studying face-to-face contact patterns among primary school students using high-resolution RFID proximity sensors. *(Python, `igraph`, Pandas, NumPy)*
-* **[ITU_UNOSTX_HW](https://github.com/tanyaniazi/ITU_UNOSTX_HW)** — Stochastic dynamic programming and Markov Decision Process (MDP) model optimizing living-donor liver transplantation policies via value iteration and machine learning classifiers. *(Python, Scikit-Learn, NumPy, Pandas)*
+* **[stochastic-mdp-liver-transplantation](https://github.com/tanyaniazi/stochastic-mdp-liver-transplantation)** — Stochastic dynamic programming and Markov Decision Process (MDP) model optimizing living-donor liver transplantation policies via value iteration and machine learning classifiers. *(Python, Scikit-Learn, NumPy, Pandas)*
 
 ---
 
