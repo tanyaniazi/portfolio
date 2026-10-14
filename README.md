@@ -19,6 +19,8 @@
 
 * **[THESIS-TUBITAK_PROJECT](https://github.com/tanyaniazi/THESIS-TUBITAK_PROJECT)** — Full data-processing and network-analysis pipeline studying face-to-face contact patterns among primary school students using high-resolution RFID proximity sensors. *(Python, `igraph`, Pandas, NumPy)*
 * **[stochastic-mdp-liver-transplantation](https://github.com/tanyaniazi/stochastic-mdp-liver-transplantation)** — Stochastic dynamic programming and Markov Decision Process (MDP) model optimizing living-donor liver transplantation policies via value iteration and machine learning classifiers. *(Python, Scikit-Learn, NumPy, Pandas)*
+* **[tsjm-reproduction](https://github.com/tanyaniazi/tsjm-reproduction)** — End-to-end Python reproduction and theoretical framework of Two-Stage Joint Modeling (TSJM) for multivariate longitudinal biomarkers and survival outcomes (Baghfalaki et al., 2026). Features single-marker joint models correcting for informative dropout bias, Rubin's rules for multiple imputation variance pooling, and dynamic landmark risk prediction. *(Python, Lifelines, SciPy, NumPy, Survival Analysis)*
+
 
 ---
 
