@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi there, I'm Tanya Hasanniazi 👋</h1>
-  <h3>Industrial Engineer | Data Science • Operations Research • Network Science • Algorithms Enthusiast</h3>
-  <p>I hold an MSc in Industrial Engineering from <a href="https://www.topuniversities.com/universities/istanbul-technical-university">Istanbul Technical University</a> and two years of research experience managing the complete data lifecycle—from data pipeline curation and exploratory analysis to predictive modeling and academic publication. Following an international relocation to the UK, currently executing a rigorous self-directed curriculum focused on computational Bayesian inference, statistical modeling of dynamic networks, changepoint analysis, and probabilistic clustering. Combines foundational operations research rigor with modern statistical computing, targeting UK graduate research programs and quantitative data roles.</p>
+  <h3>Industrial Engineer | Data Science • Operations Research • Network Science • Algorithms Enthusiast • Decision making </h3>
+  <p>I hold an MSc in Industrial Engineering from <a href="https://www.topuniversities.com/universities/istanbul-technical-university">Istanbul Technical University</a> and two years of research experience managing the complete data lifecycle—from data pipeline curation and exploratory analysis to predictive modeling. .</p>
 </div>
 
 ---
