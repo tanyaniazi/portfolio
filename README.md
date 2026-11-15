@@ -1,6 +1,7 @@
 <div align="center">
   <h1>Hi there, I'm Tanya Hasanniazi 👋</h1>
-  <h3>Industrial Engineer | Data Science • Operations Research • Network Science • Algorithms Enthusiast • Decision making </h3>
+  <h3>Industrial Engineer | Data Science | Decision Making Under Uncertainty 
+  <h4> Operations Research • Network Science • Bayesian Inference • Markov Decision Processes </h4>
   <p>I hold an MSc in Industrial Engineering from <a href="https://www.topuniversities.com/universities/istanbul-technical-university">Istanbul Technical University</a> and two years of research experience managing the complete data lifecycle—from data pipeline curation and exploratory analysis to predictive modeling. .</p>
 </div>
 
