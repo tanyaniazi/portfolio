@@ -37,4 +37,5 @@
 
 * **Email:** [tanyahasanniazi@gmail.com](mailto:tanyahasanniazi@gmail.com)
 * **LinkedIn:** [linkedin.com/in/tanyaniazi](https://www.linkedin.com/in/tanyaniazi)
+* **Personal Webpage:** [tanyahasanniazi.com]([https://www.linkedin.com/in/tanyaniazi](https://tanyahasanniazi.tanyahasanniazi.workers.dev/))
 * **Location:** Shrewsbury, United Kingdom
